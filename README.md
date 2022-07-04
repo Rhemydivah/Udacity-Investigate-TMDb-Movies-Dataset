@@ -1,0 +1,2 @@
+# Udacity-Investigate-TMDb-Movies-Dataset
+This dataset contains information about 10,000 movies collected from the movie database (TMDb) including user ratings and revenue. There are certain columns like ‘genres’, 'keywords' and cast' that contain multiple values separated by pipe (|) characters. The final two columns ending with “_adj” show the budget and revenue of the associated movie in terms of 2010 dollars, accounting for inflation over time.
